@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haha on Quacky Moewy</title>
+    <link>/categories/haha/</link>
+    <description>Recent content in Haha on Quacky Moewy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>quackymeowy@outlook.com (Quacky Moewy)</managingEditor>
+    <webMaster>quackymeowy@outlook.com (Quacky Moewy)</webMaster>
+    <copyright>&amp;copy; 2024 Quacky Meowy. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/haha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1stPost</title>
+      <link>/1stpost/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <author>quackymeowy@outlook.com (Quacky Moewy)</author>
+      <guid>/1stpost/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

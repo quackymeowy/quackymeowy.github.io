@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First post gaga on Quacky Moewy</title>
+    <link>http://localhost:1313/1st-post/</link>
+    <description>Recent content in First post gaga on Quacky Moewy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>quackymeowy@outlook.com (Quacky Moewy)</managingEditor>
+    <webMaster>quackymeowy@outlook.com (Quacky Moewy)</webMaster>
+    <copyright>&amp;copy; 2024 Quacky Meowy. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/1st-post/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

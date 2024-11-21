@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Quacky Moewy</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Quacky Moewy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>quackymeowy@outlook.com (Quacky Moewy)</managingEditor>
+    <webMaster>quackymeowy@outlook.com (Quacky Moewy)</webMaster>
+    <copyright>&amp;copy; 2024 Quacky Meowy. All Rights Reserved.</copyright>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
